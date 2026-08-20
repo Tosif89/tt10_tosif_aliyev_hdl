@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt10_tosif_aliyev_hdl (
+module tt_um_tosifaliyev_prbs31 (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
